@@ -1,2 +1,3 @@
 # Second-Project
-my Second project
+
+my Second project should be more interesting
